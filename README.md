@@ -24,4 +24,4 @@ The core purpose of this project is to demonstrate how something as abstract and
 * **Matplotlib & Seaborn** (Geometric and statistical visualizations)
 
 ---
-*Created with passion and rigor by Matteo Guerrucci*
+*Created by Matteo Guerrucci*
