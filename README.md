@@ -1,5 +1,5 @@
-# Machine-Learning-
-# 🧠 Math-First Machine Learning
+
+# 🧠 Machine Learning
 
 Welcome to my Machine Learning repository! I am a B.Sc. student in Mathematics for Artificial Intelligence at Sapienza University.
 
@@ -16,7 +16,7 @@ The core purpose of this project is to demonstrate how something as abstract and
    * Vector Spaces, Eigendecomposition, and the Spectral Theorem applied to data.
 
 ---
-*⏳ Next Chapters Coming Soon: PCA, SVD, and Linear/Polynomial Regularized Models.*
+*⏳ Next Chapters Coming Soon!*
 
 ## 🛠️ Tools & Libraries
 * **Python 3**
